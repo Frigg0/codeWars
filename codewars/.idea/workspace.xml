@@ -3,20 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c9776220-e90a-4e5d-9595-845e8babc6af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/HighestAndLowest/Kata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/LargestNumberArrangement/LargestArrangement.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codewars/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/curingArachnophobia/Spiders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/printerErrors/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/streetFighter2CharacterSelection/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/twoToOne/TwoToOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HighestAndLowest/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/HighestAndLowest/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LargestNumberArrangement/LargestArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/LargestNumberArrangement/LargestArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/com/company/kyu7/toLeetSpeak/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codewars/com/company/kyu7/toLeetSpeak/Kata.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/curingArachnophobia/Spiders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/curingArachnophobia/Spiders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/printerErrors/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/printerErrors/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/streetFighter2CharacterSelection/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/streetFighter2CharacterSelection/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/twoToOne/TwoToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/twoToOne/TwoToOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/kyu7/coloredTriangle/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/coloredTriangle/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/kyu7/toLeetSpeak/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kyu7/toLeetSpeak/Kata.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,37 +20,39 @@
     <session id="-1710080446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="27" />
+          <entry key="java" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11651" />
+          <entry key="java" value="13624" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11651" />
+          <entry key="JAVA" value="13624" />
         </counts>
       </usages-collector>
     </session>
@@ -69,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="68" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="129" />
+            <state relative-caret-position="210">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,13 +72,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/toLeetSpeak/Kata.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/twoFighters/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="109" selection-start-line="18" selection-start-column="109" selection-end-line="18" selection-end-column="109" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/twoFighters/Fighter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -124,7 +123,13 @@
         <option value="$PROJECT_DIR$/src/com/company/kyu8/sortAndStar/SortAndStar.java" />
         <option value="$PROJECT_DIR$/src/com/company/kyu7/formTheMinimum/Minimum.java" />
         <option value="$PROJECT_DIR$/src/com/company/kyu7/toLeetSpeak/Kata.java" />
+        <option value="$PROJECT_DIR$/src/com/company/kyu8/substractTheSum/Kata5.java" />
+        <option value="$PROJECT_DIR$/src/com/company/kyu7/coloredTriangle/Kata.java" />
+        <option value="$PROJECT_DIR$/src/com/company/kyu8/substractTheSum/Kata.java" />
+        <option value="$PROJECT_DIR$/src/com/company/kyu8/trafficLight/TrafficLights.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/kyu7/twoFighters/Fighter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/kyu7/twoFighters/Kata.java" />
       </list>
     </option>
   </component>
@@ -134,7 +139,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="25" />
     <option name="width" value="1921" />
     <option name="height" value="952" />
@@ -147,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -174,20 +178,48 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="kyu7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu7" type="462c0819:PsiDirectoryNode" />
+              <item name="twoFighters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu8" type="462c0819:PsiDirectoryNode" />
+              <item name="trafficLight" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542212803073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542302381644" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/kyu8" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.company.kyu7" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.kyu8.substractTheSum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,18 +270,20 @@
       <workItem from="1541672256429" duration="9678000" />
       <workItem from="1541754863464" duration="670000" />
       <workItem from="1542100032952" duration="9074000" />
-      <workItem from="1542185146276" duration="11960000" />
+      <workItem from="1542185146276" duration="12358000" />
+      <workItem from="1542276529389" duration="1947000" />
+      <workItem from="1542288715898" duration="8558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63887000" />
+    <option name="totallyTimeSpent" value="74790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1921" height="952" extended-state="1" />
+    <frame x="0" y="25" width="1921" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19327283" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19754405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,8 +291,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,16 +370,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/coloredTriangle/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" selection-start-line="8" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/coloredTriangle/CleverSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -377,17 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#256#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/sortedYesNoHow/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -405,12 +418,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/twoToOne/TwoToOne.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu8/substractTheSum/Kata.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/coloredTriangle/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="300">
+          <caret line="58" column="25" lean-forward="true" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu8/substractTheSum/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="942">
+          <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -422,23 +448,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/twoToOne/TwoToOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="68" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="129" />
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/toLeetSpeak/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/toLeetSpeak/Kata.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/sortedYesNoHow/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="109" selection-start-line="18" selection-start-column="109" selection-end-line="18" selection-end-column="109" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu8/trafficLight/TrafficLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/twoFighters/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/kyu7/twoFighters/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>

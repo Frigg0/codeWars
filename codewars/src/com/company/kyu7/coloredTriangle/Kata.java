@@ -53,7 +53,7 @@ public class Kata {
     }
 
     private static List<String> getFinalChar(List<String> chars) {
-        List<String> list = new ArrayList<>();
+        List<String> list;
 
         if(chars.size() <= 1){
             return chars;

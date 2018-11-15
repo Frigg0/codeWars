@@ -12,10 +12,18 @@ public class Kata {
 
         Map<String, String> map = new HashMap<>();
 
-        for(int i = 0; i<alphabet.length-1; i++){
+        for(int i = 0; i<=alphabet.length-1; i++){
             map.put(alphabet[i], leetAlphabet[i]);
         }
+
+        System.out.println(map.get("VYZ"));
 
         return Arrays.stream(speak.split("")).map(c -> map.getOrDefault(c, c)).collect(Collectors.joining());
     }
 }
+
+/*
+    static String toLeetSpeak(final String speak) {
+        return speak.replace("A", "@").replace("B", "8").replace("C", "(").replace("E", "3").replace("G", "6").replace("H", "#").replace("I", "!").replace("L", "1").replace("O", "0").replace("S", "$").replace("T", "7").replace("Z", "2");
+    }
+ */
